@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Car demand forecast
 This notebook features a solution to the "Playground Series - S3E11" challenge available on Kaggle. The objective of this challenge is to create a car demand forecast model based on historical sales data.
 
